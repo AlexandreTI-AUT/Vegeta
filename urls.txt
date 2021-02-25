@@ -1,0 +1,7 @@
+PET: https://minhaclaroresidencial3.claro.com.br/
+
+PROD: https://minhaclaroresidencial.claro.com.br/
+
+API: https://us-central1-claro-id-260819.cloudfunctions.net/claro-id-segment?claro_id=undefined
+
+API Login PROD: https://auth.netcombo.com.br/login?username=net.web&password=Net.123&auth_method=UP&authMs=UP&state=a1041cb0-56da-11e7-9873-e953f76b8e41&scope=openid+minha_net&response_type=code&client_id=NetApp&redirect_uri=https://api-backend.clarobrasil.mobi/account/v1/auth/sign-in/callback
