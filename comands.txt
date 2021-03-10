@@ -1,5 +1,5 @@
 //Executa o teste e gera os reports
-vegeta attack -duration=10s -rate=50 -timeout=60s -targets=request/request.txt > results/results.bin | vegeta report -output=reports/report_execution.json && vegeta plot -title="Report Minha Claro Residencial" results/results.bin > reports/reports.html
+vegeta attack -duration=10s -rate=50 -timeout=60s -targets=request/request.txt > results/results.bin | vegeta report -output=reports/report_execution.json && vegeta plot -title="Report Fale Conosco" results/results.bin > reports/reports.html
 
 //Abrir o arquivo bin no terminal
 vegeta report results/results.bin
